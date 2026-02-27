@@ -1,12 +1,41 @@
 # Comprehensive Medical Nepali Guide for Foreign Practitioners
 
-Converted from `/Users/david/Downloads/Comprehensive Medical Nepali Guide.rtf`.
+This repository is a working medical Nepali reference for clinicians, interpreters, learners, and collaborators who need language that works in real encounters. It preserves the imported source material while reorganizing and expanding it into a Markdown guide that is easier to revise carefully over time.
 
-## Organization Principles
+## What This Repository Tries To Do
 
-- All original section content is preserved; this reorganization changes grouping and navigation, not substance.
-- Original section titles and numbering remain inside the files for traceability back to the source document.
-- The guide is now grouped by how a clinician is most likely to use it: foundations, body systems, special populations, diseases, workflow, and context.
+- Keep the full body of source information available instead of summarizing important details away.
+- Pair everyday patient phrasing with more formal clinical language when both are useful.
+- Include Devanagari and transliteration for terms and phrases throughout the guide.
+- Add back-translations, register notes, and example usage where they make meaning clearer for English-speaking readers.
+- Keep culturally specific and potentially stigmatizing language visible, but labeled responsibly.
+
+## How To Use The Guide
+
+1. Start in [01-foundations](./01-foundations/README.md), especially [Part 1: Sensitive Language and Clinical Registers](./01-foundations/part-1-sensitive-language-and-registers.md), for register, politeness, and cross-cutting wording.
+2. Move into the body-system or population-specific sections as needed for a clinical encounter.
+3. Use the section overviews and cross-links to follow related topics rather than relying only on file names.
+4. Treat the guide as a living working reference: many sections are being expanded with richer examples, meaning notes, and literal glosses.
+
+## Repository Structure
+
+- [01-foundations](./01-foundations/README.md): register, life stages, general clinical language
+- [02-body-systems](./02-body-systems/README.md): anatomy, symptoms, and body-system vocabulary
+- [03-special-populations](./03-special-populations/README.md): women's health, pregnancy, childbirth, pediatrics
+- [04-diseases-and-conditions](./04-diseases-and-conditions/README.md): infectious disease, chronic disease, mental health
+- [05-clinical-workflow-and-care](./05-clinical-workflow-and-care/README.md): prescribing, procedures, exams, hospital workflow
+- [06-context-lifestyle-and-end-of-life](./06-context-lifestyle-and-end-of-life/README.md): sleep, lifestyle, cultural context, end of life
+
+## Editorial Conventions
+
+- Original section titles and numbering remain inside the files for traceability back to the imported source.
+- Reorganization should improve navigation, not remove content.
+- When a phrase is likely to confuse English readers, a short back-translation is preferred over a loose summary.
+- Terms that are colloquial, stigmatizing, euphemistic, or strongly context-dependent should be labeled that way.
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the editing conventions we are trying to follow as the guide grows.
 
 ## Guide Map
 
@@ -57,7 +86,6 @@ Converted from `/Users/david/Downloads/Comprehensive Medical Nepali Guide.rtf`.
 - [Section 21: End of Life, Hospice & Death (अन्तिम अवस्था र मृत्यु)](./06-context-lifestyle-and-end-of-life/21-end-of-life-hospice-death-अन्तिम-अवस्था-र-मृत्यु.md)
 - [Section 22: Traditional Healing & Cultural Beliefs (परम्परागत उपचार र जनविश्वास)](./06-context-lifestyle-and-end-of-life/22-traditional-healing-cultural-beliefs-परम्परागत-उपचार-र-जनविश्वास.md)
 
-## Notes
+## License
 
-- Source formatting was converted from RTF via `textutil` and normalized into Markdown.
-- The content is split into smaller files so we can revise terminology section by section without collapsing distinct topics into summaries.
+This repository is published under the [MIT License](./LICENSE).

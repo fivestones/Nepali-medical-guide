@@ -79,3 +79,31 @@ In Nepal, it is often more useful to ask about daily functions than to ask only 
 - Going down stairs: *Sidi jharne* (सिँढी झर्ने).
 
 - Getting up from the floor / from a low position: *Bhui bata uthne* (भुइँबाट उठ्ने) or *Tala bata uthne* (तलबाट उठ्ने).
+
+## 4. Common Orthopedic Exam Commands and Strength Testing
+
+For many bedside orthopedic exams in Nepal, there is not one single fixed technical command. In practice, clinicians often combine a plain movement command with a second instruction like "hold it," "push," "do not let me push it down," or "relax."
+
+- Relax the limb / let it go loose: *Lulu garnuhos* (लुलु गर्नुहोस् - colloquial, useful for asking a patient not to stiffen the arm or leg), *Khukulo chhodnuhos* (खुकुलो छोड्नुहोस्), or *Bal nalagaunuhos* (बल नलगाउनुहोस्).
+
+- Do not make it stiff: *Kadaa naparnuhos* (कडा नपर्नुहोस्).
+
+- Hold it there: *Tyasai samatirakhnuhos* (त्यसै समातिराख्नुहोस्).
+
+- Push against my hand / apply force against my hand: *Mero haat tira dhakelnuhos* (मेरो हाततिर धकेल्नुहोस्) or *Mero haatko viruddha jor lagaunuhos* (मेरो हातको विरुद्ध जोर लगाउनुहोस्).
+
+- Do not let me push it down: *Ma tala thichchhu, tala jharnu nadinuhos* (म तल थिच्छु, तल झर्न नदिनुहोस्).
+
+- Do not let me lift it up: *Ma mathi uthaunchhu, mathi jaan nadinuhos* (म माथि उठाउँछु, माथि जान नदिनुहोस्).
+
+- Straighten your knee / extend your leg while sitting: *Basera khutta sidhha parnuhos* (बसेर खुट्टा सिधा पार्नुहोस्).
+
+- Hold your leg straight while I push it down: *Khutta sidhha parera raakhnuhos, ma tala thichchhu* (खुट्टा सिधा पारेर राख्नुहोस्, म तल थिच्छु). This is a natural bedside way to test knee extension / quadriceps strength.
+
+- Lift your knee up while sitting: *Basera ghundaa mathi uthaunuhos* (बसेर घुँडा माथि उठाउनुहोस्). This tests seated hip flexion more than quadriceps, so it is useful to keep separate from the knee-extension command above.
+
+- Raise your arms up and do not let me push them down: *Haat mathi uthaunuhos, ma tala thichchhu, tala jharnu nadinuhos* (हात माथि उठाउनुहोस्, म तल थिच्छु, तल झर्न नदिनुहोस्).
+
+- Push your arms down against my hand: *Haat tala dhakelnuhos, mero haatko viruddha jor lagaunuhos* (हात तल धकेल्नुहोस्, मेरो हातको विरुद्ध जोर लगाउनुहोस्).
+
+- Lift your arm out to the side and hold it: *Haat chheuma mathi uthaunuhos ra tyasai samatirakhnuhos* (हात छेउमा माथि उठाउनुहोस् र त्यसै समातिराख्नुहोस्).
