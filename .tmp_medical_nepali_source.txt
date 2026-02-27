@@ -1,0 +1,569 @@
+Comprehensive Medical Nepali Guide for Foreign Practitioners
+Part 1: Navigating Sensitive Language and Clinical Registers
+Nepali culture leans conservative regarding bodily functions, sexual health, and anatomy. However, medical professionals must gather specific information. Use this framework to navigate sensitive topics:
+The "Funnel" Approach: Always start with a respectful, broad euphemism to build trust. Only narrow down to highly specific/clinical terms when medically necessary.
+Example: Start by asking if they have pain in their Guptanga (private parts). If they say yes, explain why you need to be specific: "Malaai rog patta lagauna tapai-ko samasya thakkai kahan chha bhannu parchha" (To diagnose the disease, you need to tell me exactly where your problem is). Then use the clinical term.
+Understand the Registers: * Formal/Medical: Used in charting, formal diagnoses, and showing professional respect.
+Colloquial Adult: The everyday language patients will use to describe their symptoms to you.
+Pediatric/Child Talk: Crucial for pediatricians or when speaking to mothers about their infants.
+Taboo/Vulgar Slang: You should generally avoid using these, but you must understand them if a patient uses them.
+Tone & Respect: Always use Tapai (formal "you") and the Hajur register when discussing sensitive issues. It creates a clinical distance that helps Nepali patients feel more comfortable and respected.
+A Note on Medical Verbs (Tense Modifiers): Nepali verbs change heavily based on tense. As a practitioner, you will hear a root verb modified in three common ways. For example, using the root Kaam- (to shake/tremble):
+Present (It happens generally/now): -cha suffix -> Kaamcha (It shakes).
+Past (It happened): -yo suffix -> Kaamyo (It shook).
+Perfect/State (It has happened/is in a state of): -eko suffix -> Kaameko (It is shaking / has shaken).
+Example with Pain (Dukh-): Dukhcha (It hurts), Dukhyo (It hurt), Dukheko chha (It is currently hurting).
+Part 2: Detailed Anatomical and Systemic Deep Dives
+Section 1: General Illness, Vitals & Trajectories (सामान्य शब्दावली र नाप)
+Before diving into specific systems, here are the foundational words used to describe states of health, vital signs, and how symptoms change over time.
+1. General Health Terms
+Illness / Disease: Rog (रोग) or Biram (बिराम).
+Patient / Sick person: Birami (बिरामी).
+Diseased person / Chronically ill: Rogi (रोगी). Note: This can carry stigma in certain contexts; "Birami" is the preferred, polite term for a patient.
+Injury / Wound: Chot (चोट), Ghaau (घाउ), or Ghaau-chot (घाउ-चोट).
+Healthy / Well: Swastha (स्वस्थ) or Thik (ठीक).
+Feeling unwell/sick: Bisanchho (बिसन्चो).
+Fever: Jaro (जरो). Having a fever: Jaro aayeko (जरो आएको).
+Condition / State of health: Awastha (अवस्था).
+2. Vital Signs & Measurements
+Size / Measurement: Naap (नाप).
+To measure: Naapnu (नाप्नु).
+Temperature: Tapkram (तापक्रम - formal) / Jaro (जरो - common).
+Heart Rate / Pulse: Mutu ko dharkan (मुटुको धड्कन - very common), Mutu ko chal (मुटुको चाल), or Nadi (नाडी - pulse).
+Blood Pressure: Presher (प्रेसर) or Raktachaap (रक्तचाप).
+Respiratory Rate: Saas ko chal (सासको चाल).
+Weight: Toul (तौल).
+Height: Uchai (उचाइ). To grow tall: Aglo hune (अग्लो हुने).
+Abdominal circumference / Waist size: Kammar ko naap (कम्मरको नाप) or Pet ko gherai (पेटको घेराइ).
+3. Changes, Trajectories & Symptoms
+To increase / go up (used for symptoms, labs, weight): Badhne (बढ्ने) or Badhyo (बढ्यो). Example: Toul badheko chha (Weight has increased) or Dukhani badhyo (Pain increased).
+To decrease / go down: Ghatne (घट्ने) or Ghatyo (घट्यो). Example: Toul ghateko chha (Weight has decreased).
+Weight loss (Symptom): Toul ghatne (तौल घट्ने) or Jiou sukdai gayeko (body drying up/wasting away).
+Improving / Getting better: Sudhaar aayeko (सुधार आएको) or Bishak bhayeko (बिसक भएको).
+Worsening / Flaring up (relapse): Baljhiyo (बल्झियो - flared up) or Ajha kharaab bhayo (अझ खराब भयो - got worse).
+Spreading (e.g., pain, rash, infection): Faileyko (फैलिएको), Sarne (सर्ने), or Saryo (सर्यो - it spread).
+Coming and going (e.g., pain, fever): Aaune jane garne (आउने जाने गर्ने).
+Swelling increased / swelled up: Sunniyo (सुन्नियो) or Jhan sunniyo (swelled more).
+Swelling decreased / went down: Basyo (बस्यो - lit. "sat" or settled down) or Sukyo (सुक्यो - shrunk/dried up). Example: Sunnieko basyo (the swelling went down).
+Section 2: Life Stages (जीवनका चरणहरु)
+Fetus / Unborn Baby: Bhroon (भ्रूण - formal/clinical) or Garbha ko bacha (गर्भको बच्चा).
+Newborn (0-28 days): Nawal jaat sishu (नवजात शिशु)
+Infant / Baby: Bacha (बच्चा) or Baabulya (बाबुनानी - affectionate)
+Toddler/Small Child: Sano bacha (सानो बच्चा)
+Adolescent/Teenager: Kishor (किशोर - boy) / Kishori (किशोरी - girl) or Tinejar (टिनेजर - loanword).
+Young Adult / Youth: Jawan (जवान)
+Adult: Bayaska (वयस्क)
+Middle-Aged: Adhaibainse (अधबैंसे)
+Old Age: Briddha (वृद्ध - formal), Jestha nagarik (ज्येष्ठ नागरिक - senior citizen), or Budho (बुढो - old man) / Budhi (बुढी - old woman).
+Section 3: Head, Face, and Neck (टाउको, अनुहार र घाँटी)
+1. Hair & Scalp (कपाल र तालु)
+Anatomy: * Hair (head): Kapaal (कपाल)
+Scalp/Crown: Taalu (तालु)
+Hairline: Kapaal ko ghera (कपालको घेरा)
+Pathology & Variations:
+Dandruff: Chhaaya (छाया)
+Lice / Nits: Jumra (जुम्रा) / Likha (लिक्खा - the eggs)
+Thinning / Sparse hair: Kapaal patalo bhayeko (कपाल पातलो भएको)
+Hair falling out (active): Kapaal jhareko (कपाल झरेको)
+Brittle hair / Split ends: Kapaal phuteko (कपाल फुटेको)
+Baldness: Khuile (खुइले) or Taalu khuileko (तालु खुइलेको)
+Graying/White hair: Kapaal phuleko (कपाल फुलेको)
+Scalp sores/crusts: Khavata (खबटा) or Khaat (खाट)
+2. Face (अनुहार र मुख)
+Cultural Note: The clinical word for face is Anuhar (अनुहार). However, colloquially, patients use the word Mukh (मुख - which literally means mouth) to refer to the entire face. For example, Mukh dhune means "to wash the face," not the mouth.
+Face (Clinical): Anuhar (अनुहार)
+Face (Colloquial): Mukh (मुख)
+Forehead: Nidaar (निधार)
+Cheek: Gaalaa (गाला)
+Chin: Chiundo (चिउँडो)
+3. Eyes (आँखा)
+Detailed Anatomy:
+Eye / Eyeball: Aankha (आँखा)
+Pupil: Aankha ko nani (आँखाको नानी)
+White of the eye: Aankha ko seto bhaag (आँखाको सेतो भाग)
+Eyelid: Papi (पापी) / Aankha ko parela ko aawaran
+Eyelash: Parela (परेला)
+Eyebrow: Aankhi bhau (आँखीभौं)
+Fluids & Excretions:
+Tears: Aansu (आँशु)
+Eye boogers / "Sleepies": Chhipra (छिप्रा)
+Pathology & Symptoms:
+Red / Bloodshot eyes: Aankha rato bhayeko (आँखा रातो भएको)
+Itchy eyes: Aankha chilaayeko (आँखा चिलाएको)
+Watery eyes: Aankha rasaayeko (आँखा रसाएको)
+Blurry vision: Dhamilo dekhiyo (धमिलो देखियो)
+Stye: Aano (आनो)
+Squint / Strabismus: Dedo (डेड‍ो)
+Blindness: Andho (अन्धो)
+4. Ears (कान)
+Detailed Anatomy:
+Ear: Kaan (कान)
+Earlobe: Kaan ko loli (कानको लोली)
+Fluids & Pathology:
+Earwax: Kaane guji (काने गुजी)
+Pus from ear: Kaan pākeko (कान पाकेको)
+5. Nose (नाक)
+Detailed Anatomy:
+Nose: Naak (नाक)
+Nostril: Naak ko pwaal (नाकको प्वाल)
+Fluids & Excretions:
+Snot / Mucus: Singhaan (सिँगान)
+Dried snot / Boogers: Naak ko guji (नाकको गुजी)
+Actions:
+Sneezing: Hachhyu garne (हाच्छ्युँ गर्ने)
+Sniffling: Sukk sukk garne (सुक्क सुक्क गर्ने)
+Blowing nose: Singhaan faalne (सिँगान फाल्ने)
+6. Mouth, Teeth & Throat (मुख, दाँत र घाँटी)
+Detailed Anatomy:
+Mouth/Oral cavity: Mukh (मुख)
+Lips: Oth (ओठ)
+Tooth (General): Daant (दाँत)
+Baby teeth: Dudhe daant (दुधे दाँत - lit. "milk teeth")
+Incisors / Front teeth: Agaadi ko daant (अगाडिको दाँत)
+Canines: Kukur daant (कुकुर दाँत - lit. "dog teeth")
+Molars: Bungaaro (बंगारा)
+Gums: Gija (गिजा)
+Tongue: Jibro (जिब्रो)
+Throat (External/Internal): Ghaanti (घाँटी)
+Fluids & Reflexes:
+Saliva (general): Ryaal (ऱ्याल)
+Spit: Thuk (थुक)
+Phlegm / Sputum: Khakaar (खकार)
+Coughing: Khoki laagne (खोकी लाग्ने)
+Choking (on liquids): Sarkine (सर्किने)
+Choking (on solids): Adkine (अड्किने)
+Yawning: Haai garne (हाइ गर्ने)
+Hyperventilating: Lamo lamo saas tanne (pulling long breaths) or Hatta-patta saas ferna (panicked breathing)
+Pathology & Symptoms:
+Cavity / Tooth decay: Daant kiraale khako (दाँत किराले खाएको - lit. "tooth eaten by bugs")
+Bleeding gums: Gija bata ragat aayeko (गिजाबाट रगत आएको)
+Sore throat: Ghaanti dukheko (घाँटी दुखेको) or Ghaanti khaskhas garne (scratchy)
+Section 4: Dermatology & General Skin Conditions (छाला सम्बन्धी)
+1. Detailed Anatomy & Excretions
+Skin (General): Chhaala (छाला)
+Pores: Roun ko pwaal (रौंको प्वाल)
+Sweat: Pasina (पसिना)
+Sebum / Skin Oil: Chillo (चिल्लो)
+Pus: Pip (पिप)
+Watery discharge (from a wound): Pani bageko (पानी बगेको) or Pani rasaayeko (पानी रसाएको)
+2. Actions on the Skin (Itching vs. Rubbing)
+To feel itchy (Symptom): Chilaune (चिलाउने - e.g., "Malaai chilaayeko chha" = I am feeling itchy).
+To scratch (Action): Kanyaune (कन्याउने - e.g., "Nakanyaunuhos" = Do not scratch).
+To rub / apply ointment: Dalne (दल्ने) or Malne (मल्ने).
+To massage / soothe (medical or comforting): Mischne (मिच्ने - deep rub) or Sumaarne (सुमार्ने - gentle petting/soothing).
+Sweating (Action): Pasina aaune (पसिना आउने).
+Drenched in sweat: Pasina le nuhaayeko (पसिनाले नुहाएको - lit. "bathed in sweat").
+3. Pathology & Symptoms
+Infected / Suppurating: Pakiyo (पाकिओ) or Pākeko (पाकेको). This is the universal term for any wound or spot that has become infected, red, and pus-filled.
+Infection (Clinical): Sankraman (संक्रमण).
+Dry skin: Khasro chhaala (खस्रो छाला).
+Rash / Red spots: Rato daag (रातो दाग).
+Hives / Welts: Dabbar (डब्बर) or Allergy (एलर्जी - commonly used English word).
+Moles: Kothi (कोठी).
+Warts: Musa (मुसा).
+Skin Tags: Maasu palayeko (मासु पलाएको - lit. "flesh sprouted").
+Eczema / Severe chronic itch: Luto (लुतो - medically this means scabies, but it is used colloquially for severe eczema or psoriasis).
+Fungal infection / Ringworm: Daad (दाद).
+Psoriasis: Often just referred to as Chhaala ko rog (skin disease) or by the English loan word Psoriasis (सोरायसिस).
+Boil / Abscess: Khapate (खपटे) or Pilo (पिलो - specifically a large boil/carbuncle).
+Scar: Daag (दाग) or Khaat (खाट).
+Section 5: Torso, Back, Chest & Heart (जीउ, पिठ्युँ र छाती)
+1. Detailed Anatomy
+Chest: Chhaati (छाती)
+Breast: Stan (स्तन - formal), Dudh (दुध - colloquial).
+Abdomen / Belly: Pet (पेट)
+Flanks / Sides of abdomen: Kokh (कोख)
+Waist: Kammar (कम्मर)
+Back: Dhaad (ढाड) vs. Pithyu (पिठ्युँ). Note: Dhaad refers to the entire back area, particularly the mid/lower back muscles, whereas Pithyu refers to the physical surface of the back.
+Spine / Backbone: Merudanda (मेरुदण्ड).
+Buttocks: Chaak (चाक - highly colloquial), Pachhadi ko bhaag (पछाडिको भाग - polite/euphemistic "the back part"), or Nitamba (नितम्ब - formal).
+2. Fluids
+Breastmilk: Aama ko dudh (आमाको दुध - mother's milk) or just Dudh.
+3. Chest & Heart Symptoms
+Chest pain: Chhaati dukheko (छाती दुखेको).
+Heart pain: Mutu dukheko (मुटु दुखेको).
+Chest tightness/heaviness: Chhaati bhaari bhayeko (छाती भारी भएको) or Chhaati kaseko (छाती कसेको - felt like it was tied/squeezed).
+Heart palpitations: Mutu ko chal badheko (मुटुको चाल बढेको) or Mutu dhukdhuk garne (मुटु ढुकढुक गर्ने).
+Burning in chest (heartburn): Chhaati poleko (छाती पोलेको).
+Slipped disc / Pinched nerve: Nasa chyapiyeko (नशा च्यापिएको).
+Hernia: Harnia (हर्निया) or Aandra jhareko (आन्द्रा झरेको).
+Section 6: Limbs, Joints & Orthopedics (हात, खुट्टा र हाडजोर्नी)
+1. Detailed Anatomy (Upper & Lower Limbs)
+Arm / Hand (General): Haat (हात)
+Shoulder: Kaandh (काँध)
+Shoulder blade (Scapula): Khaapar (खापर)
+Wrist: Naari ko gantho (नाडीको गाँठो)
+Fingers / Toes: Aaunla (औंला). Note: Aaunla alone means fingers, but patients frequently use it for toes as well unless specifying "Khutta ko aaunla".
+Leg / Foot (General): Khutta (खुट्टा)
+Thigh: Tighra (तिघ्रा)
+Knee: Ghundaa (घुँडा)
+Shin bone: Nali haad (नली हाड)
+Ankle: Goligantho (गोलीगाँठो)
+Heel: Kurkucha (कुर्कुच्चा).
+Foot (Respectful/Literary): Pau / Paau (पाउ).
+2. General Orthopedic Anatomy & Pathology
+Joint: Gantho (गाँठो) or Jorni (जोर्नी)
+Bone: Haad (हाड) or Haddi (हड्डी)
+Skull: Khappar (खप्पर)
+Tendon / Ligament / Nerve / Vein: Nasa (नशा - Used universally; deduce meaning from context).
+Joint pain: Jorni dukheko (जोर्नी दुखेको)
+Muscle cramp: Maasu baadiyeko (मासु बाडिएको).
+Paralysis: Pakshyaghat (पक्षघात - formal), Nachalne bhayeko (नचल्ने भएको).
+Tremors / Shaking: Kaameko (कामेको)
+Joint clicking (Crepitus): Jorni padkeko (जोर्नी पड्केको)
+Fracture: Haddi bhaanchiyeko (हड्डी भाँचिएको)
+Sprain: Markiyeko (मर्किएको)
+Ingrown toenail/fingernail: Nang gaadeko (नङ गाडेको) or Nang ko maasu pākeko (flesh around nail is infected).
+Section 7: Gastrointestinal & Abdominal (पाचन प्रणाली र पेट)
+1. Detailed Anatomy & Fluids
+Esophagus (Food pipe): Khana nali (खाना नली)
+Stomach (Organ): Aamasaya (आमाशय - clinical), Pet (पेट - general)
+Intestines: Aandra (आन्द्रा)
+Pancreas: Agnashaya (अग्न्याशय - formal/clinical), or widely referred to by the English loanword Pancreas (प्यान्क्रियाज).
+Liver: Kalejo (कलेजो)
+Gallbladder: Pittashaya (पित्ताशय - formal), Pitta thaili (पित्त थैली - colloquial)
+Rectum/Anus: Maladwar (मलद्वार - formal), Chaak ko pwaal (चाकको प्वाल - colloquial)
+Bile: Pitta (पित्त)
+Gas / Flatus: Hawa (हावा) or Gass (ग्यास)
+2. Actions & Excretions (The Register Guide)
+Vomiting / Emesis: * Formal: Banta garne (वान्ता गर्ने)
+Colloquial/Loan: Ulti garne (उल्टी गर्ने - widely used)
+Dry Heaving: Okne (ओक्ने) or Ok-ok hune
+Pediatric: Bhakka garne (भक्क गर्ने)
+Vulgar/Slang: Chhaadne (छाद्ने)
+Defecating / Stool:
+Formal: Mal tyag garne / Disa (दिसा)
+Colloquial: Disa basne (दिसा बस्ने)
+Pediatric: Chhi-chhi garne
+Taboo/Vulgar: Hagne (हग्ने) - the act / Gu (गु) - the stool.
+3. Pathology & Symptoms
+Indigestion: Gastric (ग्यास्ट्रिक - widely used loan word).
+Constipation: Kabjiyat (कब्जियत), Disa kassa bhayeko (दिसा कस्सा भएको).
+Diarrhea (General): Pakhala laageko (पखाला लागेको).
+Diarrhea (Watery): Pani jasto disa aayeko (पानी जस्तो दिसा आएको).
+Diarrhea (Gastroenteritis): Jhaada pakhala (झाडापखाला).
+Diarrhea (Slang/Vulgar): Chherne (छेर्ने - severe diarrhea, socially impolite).
+Dysentery / Mucus in stool: Aaanw parne (आउँ पर्ने).
+Bloody stool: Disa ma ragat aayeko (दिसामा रगत आएको).
+Section 8: Genitourinary, Pelvic & Sexual History (मुत्र तथा प्रजनन प्रणाली)
+1. Detailed Anatomy
+Kidneys: Mirgaula (मिर्गौला)
+Bladder: Pishab thaili (पिसाब थैली)
+Private Parts (General): Guptanga (गुप्ताङ्ग)
+Penis: Linga (लिङ्ग - formal), Nunu (नुनु - peds), Laado (लाँडो - taboo).
+Testicles: Andakosh (अण्डकोष - formal), Geda (गेडा - slang).
+Vagina: Yoni (योनी - formal), Puti / Bhal (taboo/vulgar).
+2. Urination & Symptoms
+Urine: Pishab (पिसाब), Susu (peds), Mut (taboo/slang).
+Burning urination / Dysuria: Pishab ferda polne (पिसाब फेर्दा पोल्ने) or Pishab poleko (पिसाब पोलेको).
+UTI / Infected urine: Pishab pākeko (पिसाब पाकेको) or Pishab ko sankraman.
+Blood in urine: Pishab ma ragat aayeko (पिसाबमा रगत आएको)
+Cloudy urine: Dhamilo pishab aayeko (धमिलो पिसाब आएको)
+3. Sexual History & Status (यौन इतिहास र अवस्था)
+Married: Bibahit (विवाहित) or Bihe bhayeko (बिहे भएको).
+Unmarried: Abibahit (अविवाहित) or Bihe nabhayeko (बिहे नभएको).
+Virgin (Female specifically): Kumari (कुमारी) or Kanya (कन्या - lit. maiden/unmarried virgin).
+Virgin (General/Clinical): Yaun samparka nagareko (यौन सम्पर्क नगरेको - has not had sexual intercourse).
+Sexually active: Yaun samparka ma raheko (यौन सम्पर्कमा रहेको - formal/clinical) or Sammbhog garne (सम्भोग गर्ने).
+Sexual Intercourse: Yaun samparka (यौन सम्पर्क - clinical), Sammbhog (सम्भोग - formal), or Sex garne (सेक्स गर्ने - common English loanword).
+Section 9: Women's Health, Pregnancy & Childbirth (महिला स्वास्थ्य र प्रसूति)
+1. Menstruation & Puberty (महिनावारी)
+Puberty / Reaching adolescence: Kishorawastha (किशोरावस्था) or Umer pugeko (उमेर पुगेको - lit. "reached the age").
+Menarche (First period): Pahilo patak mahinawaari bhayeko (पहिलो पटक महिनावारी भएको) or Pahilo patak nachhune bhayeko.
+Menstruation (General): Mahinawaari (महिनावारी) or Paru sarne.
+Cultural/Euphemistic: Nachhune hune (नछुने हुने - lit. "becoming untouchable").
+Menstrual Cramps: Mahinawaari huda tallo pet dukheko (महिनावारी हुँदा तल्लो पेट दुखेको).
+Menopause: Mahinawaari rokine (महिनावारी रोकिने).
+2. Uterus vs. Womb
+Uterus (The physical organ): Patheghar (पाठेघर). Example: "Patheghar ko operation" (Uterus surgery).
+Womb / Pregnancy (The concept/space): Garbha (गर्भ). Example: "Garbha basyo" (Pregnancy occurred/conceived).
+3. Pregnancy & Childbirth
+Pregnant: Garbhawati (गर्भवती - formal), Dui jyan ko hune (दुई ज्यानको हुने - colloquial "two lives").
+Fetus / Unborn Baby: Garbha ko bacha (गर्भको बच्चा) or Bhroon (भ्रूण - clinical/formal).
+Infertility: Bacha nabhayeko (बच्चा नभएको) or Baanjhopan (बाँझोपन - can be socially stigmatizing).
+Labor pains starting: Byatha laagne (व्यथा लाग्ने).
+Water breaking: Paani futne (पानी फुटने).
+Giving birth / Postpartum state: Sutkeri hune (सुत्केरी हुने).
+Placenta: Saal (साल).
+Cesarean Section: Salya-kriya (शल्यक्रिया), Pet chirera bacha nikalne, or simply CS / Cesarean / Siserian (सिसेरियन - widely understood loanword and phonetic spelling).
+Section 10: Pediatrics & Child Raising (बाल स्वास्थ्य र हुर्काइ)
+1. Developmental Milestones & Feeding (विकासका चरण र खानपान)
+Smiling (social): Haasne (हाँस्ने)
+Rolling over: Paltine (पल्टिने)
+Sitting up: Aafai basne (आफै बस्ने)
+Crawling (on belly): Ghisrine (घिस्रिने)
+Crawling (on knees): Bambakne (बम्बक्ने)
+Walking (first steps): Tati tati garne (ताती ताती गर्ने)
+Teething: Daant aaune (दाँत आउने)
+Breastfeeding: Aama ko dudh khuaune (आमाको दुध खुवाउने)
+Weaning ceremony / First solid foods: Pasni (पास्नी)
+Soft porridge for babies: Lito (लिटो) or Jaulo (जाउलो).
+2. Pediatric Emergencies (खतराका चिह्नहरु)
+Note: The official Nepali medical term for Pediatric Danger Signs (following WHO/IMCI guidelines) is "Khatara ka chinhaharu" (खतराका चिह्नहरु). Knowing this phrase is vital in rural health posts.
+Lethargic / Unconscious: Lulloo bhayeko (लुलो भएको - floppy) or Hosh nabhayeko (unconscious).
+Inconsolable crying: Ekohoro runu (एकोहोरो रुनु - crying without stopping/one-sided crying).
+Chest indrawing / Fast breathing: Chhaati gadeko (छाती गाडेको - indrawing) or Chhito saas fereko (fast breathing).
+Convulsions / Seizures: Chhopney (छोप्ने) or Kaameko (कामेको).
+Refusal to feed: Dudh nakhako (दुध नखाएको).
+Fever: Jaro aayeko (जरो आएको).
+Sunken fontanelle: Taalu gadeko (तालु गाडेको - sign of severe dehydration).
+3. Common Pediatric Conditions
+Malnutrition: Kuposhan (कुपोषण).
+Severely underweight/wasted: Sukeko bacha (सुकेको बच्चा).
+Pneumonia: Nimoniya (निमोनिया).
+Measles: Daadura (दादुरा).
+Mumps: Hade (हाडे).
+Rubella: Rubela (रुबेला) or German Daadura.
+Whooping Cough / Pertussis: Lahaare khoki (लहरे खोकी).
+Polio: Polio (पोलियो).
+Neonatal Jaundice: Navajat sishu ko jaundice (नवजात शिशुको जन्डिस) (treated with Batti ma rakhne / phototherapy).
+Diaper Rash: Diaper rash or Kachaura rato bhayeko (groin turning red).
+Intestinal Worms: Juka pareko (जुका परेको).
+4. Adolescence & Puberty (किशोरावस्था)
+Puberty / Coming of age: Umer pugeko (उमेर पुगेको) or Kishorawastha suru bhayeko.
+Voice breaking/deepening: Swor ghodro hune (स्वर घोड्रो हुने).
+Growth spurt: Hwaattai badhne (ह्वात्तै बढ्ने - growing suddenly).
+Body hair/facial hair developing: Roun palaune (रौं पलाउने) or Dhari-munga aaune (beard/mustache coming).
+Acne / Pimples: Dandiphor aaune (डन्डीफोर आउने).
+Section 11: Neurology, Pain Descriptors & Symptoms (स्नायु र दुखाइ)
+1. Neurological Symptoms
+Fainting / Unconscious: Behos hune (बेहोस हुने) or Murccha parne (मूर्छा पर्ने - to swoon/faint).
+Dizziness / Lightheaded: Ringata laagne (रिङ्गटा लाग्ने) or Chakkar laagera ladeko (dizzy and fell).
+Vertigo (Room spinning): Chakkar aaune (चक्कर आउने) or Ghumeko jasto lagne.
+Headache (General): Taauko dukheko (टाउको दुखेको).
+Migraine / Severe half-head ache: Giruwa dukhne (गिरुवा दुख्ने) or Aadha taauko dukhne.
+Stroke (The medical event): Mastiskaghat (मस्तिष्कघात - formal/clinical brain stroke).
+Stroke / Having had a stroke (The condition): Pakshyaghat (पक्षघात - formal paralysis), or highly colloquially using the loanword Paralysis bhayo (प्यारालाइसिस भयो).
+Stroke symptoms: Mukh baangiyeko (मुख बाङ्गिएको - face drooping), Boli ladbadaayeko (बोली लडबडाएको - slurred speech), Haat-khutta lulo bhayeko (हात-खुट्टा लुलो भएको - limbs going weak/floppy).
+2. Specific Pain Descriptors
+Nepali has highly specific onomatopoeic words for different types of pain.
+Throbbing / Pulsating pain: Tonk-tonk garne (टन्क-टन्क गर्ने) or Tankanay.
+Stabbing / Pricking pain: Chasakka ghochne (चसक्क घोच्ने).
+Burning pain: Polne (पोल्ने) or Polcha (पोल्छ).
+Aching / Deep bone pain: Kat-kat khane (कट-कट खाने - usually associated with joint/bone aches).
+Tingling / Pins and needles: Jham-jham garne (झम-झम गर्ने) or Jhamjhamaune.
+Cramping / Twisted pain: Baadiyeko (बाडिएको).
+Section 12: Common Infectious Diseases (सरुवा रोगहरु)
+Common Cold: Rugha (रुघा).
+Cough & Cold: Rugha khoki (रुघा खोकी).
+Fever: Jaro (जरो) or Jaro aayeko (having a fever).
+Flu / Viral Fever: Bhiral jaro (भाइरल जरो).
+Covid-19: Covid (कोभिड) or Corona (कोरोना).
+Tuberculosis (TB): Kshayarog (क्षयरोग - formal) or simply TB (टी.बी. - universal).
+Typhoid: Taifaad (टाइफाइड - loanword).
+Dengue: Dengue (डेंगु - loanword).
+Malaria: Malaria (मलेरिया - widely used loanword) or Aulo (औलो - traditional).
+Cholera: Haija (हैजा).
+Jaundice / Hepatitis: Kamalpitta (कमलपित्त) or Jaundice (जन्डिस).
+Rabies: Rebij (रेबिज) or Baula kukur le tokeko rog (disease from a mad dog bite).
+Leprosy: Kushtarog (कुष्ठरोग).
+Section 13: Chronic & Non-Communicable Diseases (दीर्घकालीन रोगहरु)
+1. General Chronic Diseases
+Hypertension / High Blood Pressure: Uchcha raktachaap (उच्च रक्तचाप - formal), Pressure high bhayeko (प्रेसर हाइ भएको - very common loanword), or simply Presher / Presher ko rog (प्रेसर / प्रेसरको रोग).
+Heart Disease: Mutu ko rog (मुटुको रोग).
+Heart Attack: Heart attack (हार्ट अट्याक).
+Asthma / COPD: Dam (दम), Swaa-swaa hune rog (disease of wheezing), or COPD (सि.ओ.पी.डी.).
+Thyroid Issues: Thyroid (थाइरोइड - widespread loanword used for any thyroid disorder).
+Uric Acid (Gout/Joint pain): Uric acid (युरिक एसिड - extremely common complaint in Nepal).
+Kidney Failure: Mirgaula fail bhayeko (मिर्गौला फेल भएको) or Mirgaula kharab bhayeko.
+Cancer: Cancer (क्यान्सर).
+2. Diabetes & Blood Sugar (मधुमेह / चिनी रोग)
+Diabetes (The Condition): Madhumeha (मधुमेह - formal), Chini rog (चिनी रोग - lit. sugar disease), or Sugar / Sugar ko rog (सुगरको रोग - common loanword).
+Blood Sugar Testing: Sugar ko jaanch (सुगरको जाँच) or Ragat ma chini ko matra naapne (measuring sugar level in blood).
+Fasting Blood Sugar: Khali pet ma sugar jaanch (खाली पेटमा सुगर जाँच).
+Post-Prandial (After food) Sugar: Khana khaepachi sugar jaanch (खाना खाएपछि सुगर जाँच).
+Regular Monitoring: Niyamit jaanch garne (नियमित जाँच गर्ने).
+Insulin: Insulin (इन्सुलिन).
+Injecting Insulin: Insulin lagaune (इन्सुलिन लगाउने) or Insulin ko sui hanne (इन्सुलिनको सुई हान्ने).
+Symptoms of High Blood Sugar (Hyperglycemia): Dherai tirkha laagne (extreme thirst), Dherai pishab laagne (frequent urination), Bhok laagirakhne (constant hunger), Toul ghatne (losing weight).
+Symptoms of Low Blood Sugar (Hypoglycemia): Sugar low bhayeko (sugar dropping), Pasina aaune (sudden sweating), Haat kaampne (shaking hands), Ringata laagne (dizziness), Aattiyeko (anxiety/panic).
+Diabetic Complications (Associated Problems):
+Diabetic Neuropathy: Nasa ko samasya (nerve problem), Khutta nidaune (numb feet), Khutta jhamjhamaune (tingling feet), Polne (burning sensation).
+Diabetic Foot / Non-healing wounds: Ghaau niko nahune (wounds not healing) or Khutta ma ghaau bhayeko (foot ulcers).
+Diabetic Retinopathy: Aankha ko dristi kamjor hune (weakening vision) or Dhamilo dekhne (blurry vision).
+Kidney involvement: Mirgaula ma asar garne (affecting the kidneys).
+Section 14: Mental Health, Psychology & Addictions (मानसिक स्वास्थ्य र दुर्व्यसन)
+1. Mental Health Symptoms
+Stress / Tension: Tanaab (तनाव - widely used).
+Anxiety / Panic: Aattiyeko (आत्तिएको) or Chinta (चिन्ता).
+Depression: Dipayrsan (डिप्रेसन - loan word) or Nirasha (निराशा - deep hopelessness).
+Depression symptoms: Man pira pareko (heavy heart), Khushi nalaagne (inability to feel happy), Eklai basna man laagne (wanting to sit alone/isolation).
+Hallucinations (Auditory): Aawaj sunne (आवाज सुन्ने - hearing voices).
+Delusions: Sanka garne (शंका गर्ने - paranoia/suspicion).
+Suicidal thoughts: Aatmahatya garne bichaar aayeko (आत्महत्या गर्ने विचार आएको).
+2. Addictions & Substance Abuse
+Addiction (General condition): Lath baseko (लत बसेको) or Durbyasan (दुर्व्यसन).
+Bad habit (often used euphemistically for addiction): Naramro bani (नराम्रो बानी).
+Addiction Rehab Center: Sudhaar kendra (सुधार केन्द्र - lit. "improvement center").
+Alcohol & Drinking:
+Alcohol (Liquor/Spirits): Raksi (रक्सी).
+Local Alcohol: Jhaad (छ्याङ्/जाँड), Tongba (तोङ्बा).
+Alcoholic (The person/identity): Jyaadaha (ज्याँदाहा - heavy drinker/alcoholic), Raksi baaj (रक्सी बाज), or Raksiya (रक्सिया).
+Drunk / Intoxicated (The state): Matyeyko (मात्तिएको) or Raksi laagayko (रक्सी लागेको - feeling the alcohol).
+Stumbling / Unsteady: Halline (हल्लिने).
+Drinking openly/heavily: Kholera khane (खोलेर खाने).
+Drugs & Smoking:
+Smoking: Churot khane (चुरोट खाने - lit. "eating" cigarettes).
+Hard Drugs: Laagu padartha (लागू पदार्थ) or Drug (ड्रग).
+Marijuana / Cannabis: Ganja (गाँजा). Often youth use English slang like Weed (विड) or Joint (जोइन्ट).
+Hashish: Charas (चरस).
+Withdrawal & Cessation (Quitting):
+To quit / stop using: Chhodne (छोड्ने) or Tyagne (त्याग्ने - formal, to abandon). Example: Churot chhodne (quitting smoking).
+To get clean / free from bad habits: Kulath bata mukta hune (कुलतबाट मुक्त हुने).
+Withdrawal / Craving: Talap laagne (तलतल लाग्ने - severe craving/itch for a substance).
+Section 15: Emergency, Trauma & Accidents (आपतकालीन र दुर्घटना)
+Fainting / Unconscious: Behos hune (बेहोस हुने) or Murccha parne (मूर्छा पर्ने).
+Accident: Durghatana (दुर्घटना). Note: While often used for vehicle crashes (Gadi durghatana), this word literally means "bad incident" and applies to any sudden traumatic event, such as falling from a tree or a severe workplace injury.
+Vehicle crash: Gadi thokkiyo (गाडी ठोकियो - car crashed) or Gadi durghatana.
+Fall / Tripped: Ladeko (लडेको) or Laryo (लड्यो - "he/it fell").
+Fall from a height/cliff: Bhir bata ladeko (भीरबाट लडेको).
+Drowning (in a river): Khola ma dubeko (खोलामा डुबेको).
+Fighting / Fist fight: Kuta-kut garne (कुटाकुट गर्ने) or Jhagada (झगडा - argument/fight).
+Weapon: Hatiyar (हतियार).
+Stick/Baton: Lathi (लाठी).
+Knife / Kukri: Chhuri (छुरी) or Khukuri (खुकुरी).
+Stabbed: Chhuri le haneko (छुरीले हानेको) or Ghochiyeko (घोचिएको).
+Cut / Sliced: Kateko (काटेको) or Chiriyeko (चिरिएको - sliced open deep).
+Head wound (split open): Taauko futeko (टाउको फुटेको).
+Domestic Violence: Gharelu hingsa (घरेलु हिंसा) or Sriman le kutne (husband beats me).
+Section 16: Medications, Dosing & Prescriptions (औषधि सम्बन्धी)
+1. Types of Medicine
+Medicine: Aushadhi (औषधि) or Dawaai (दवाई).
+Pill / Tablet: Chakki (चक्की) or Goti (गोटी).
+Liquid Medicine: Jhol aushadhi (झोल औषधि) or Piune aushadhi (पिउने औषधि - lit. medicine to drink).
+Ointment: Malam (मलम).
+The act of injecting medicine: Sui hanne (सुई हान्ने) or Sui lagaune (सुई लगाउने).
+2. Comprehensive Medication Timing
+Any time: Junsukai bela (जुनसुकै बेला).
+Once a day: Din ko ek patak / Din ko ek palta (दिनको एक पटक / पल्ट).
+Twice a day: Din ko dui patak / Din ko dui palta (दिनको दुई पटक / पल्ट).
+Three/Four/Five times a day: Din ko tin/char/paanch patak (or palta) (दिनको तीन/चार/पाँच पटक / पल्ट).
+Every <x> hours: Harek <x> ghanta ma (हरेक <x> घण्टामा).
+Every other day: Ek din biraera (एक दिन बिराएर - lit. skipping one day).
+Weekly: Hapta ma ek patak / Hapta ma ek palta (हप्तामा एक पटक / पल्ट).
+With Breakfast: Bihana ko khana sanga (बिहानको खाना सँग).
+With Lunch: Diuso ko khana sanga (दिउँसोको खाना सँग).
+With Dinner: Raati ko khana sanga (रातिको खाना सँग).
+Empty stomach: Khali pet ma (खाली पेटमा).
+Upon awakening: Bihana uthne bittikai (बिहान उठ्ने बित्तिकै).
+At bedtime / Before sleeping: Sutnu aghi (सुत्नु अघि).
+Take once now, then in one week: Ahile ek patak/palta khane, ani ek hapta pachi khane (अहिले एक पटक/पल्ट खाने, अनि एक हप्ता पछि खाने).
+3. Writing Prescriptions & Instructions for Nepali Pharmacies
+When writing a prescription for a local Nepali pharmacy, you can generally use standard English medical abbreviations (OD, BD, TDS, QDS, PO, IV) as trained pharmacists understand them. However, when writing instructions directly for the patient (or translating what the pharmacist will tell them), use this format (Note: Patak and Palta are interchangeable words for "times"):
+1x1 (OD): "Din ko ek patak" or "Din ko ek palta" (दिनको एक पटक / पल्ट)
+1x2 (BD): "Bihana ra beluka" (बिहान र बेलुका - morning and evening)
+1x3 (TDS): "Bihana, diuso, ra beluka" (बिहान, दिउँसो, र बेलुका)
+SOS (As needed for pain): "Dukheko bela ma matra khane" (दुखेको बेलामा मात्र खाने)
+STAT (Take immediately): "Ahile nai khane" (अहिले नै खाने)
+Complete the full course (antibiotics): "Aushadhi ko course pura garne, bichai ma nachhodne" (औषधिको कोर्स पूरा गर्ने, बीचैमा नछोड्ने - finish the course, don't stop in the middle).
+Section 17: Medical Procedures, Imaging & Modalities (चिकित्सा प्रक्रिया र परीक्षण)
+1. Examinations & General Tests
+Physical Exam: Jaanch garne (जाँच गर्ने) or Parikshan (परीक्षण - formal test).
+Blood test: Ragat jhikne (रगत झिक्ने - draw), Ragat ko jaanch (रगतको जाँच), or Ragat test garne.
+Urine test: Pishab ko jaanch (पिसाबको जाँच).
+Stool test: Disa ko jaanch (दिसाको जाँच).
+2. Imaging Vocabulary
+X-Ray: X-ray garne (एक्स-रे गर्ने).
+Ultrasound: Bhitri photo khichne or Video X-ray (भिडियो एक्स-रे - extremely common term in Nepal for USG).
+CT Scan: CT Scan (सिटी स्क्यान).
+MRI: MRI (एम.आर.आई.).
+3. Describing Image Findings to Patients
+Spot / Shadow seen (often used for lung/TB findings): Daag dekhiyo (दाग देखियो).
+Fluid accumulation (effusion/edema): Pani jameko chha (पानी जमेको छ).
+Cavity / Hole (TB/abscess): Khoyalto (खोयाल्टो).
+Swelling seen inside: Bhitra sunniyeko dekhiyo (भित्र सुन्निएको देखियो).
+Pinched nerve (on MRI): Nasa chyapiyeko (नशा च्यापिएको).
+Prenatal Ultrasound - Baby's heartbeat: Bacha ko mutu ko chal (बच्चाको मुटुको चाल).
+Prenatal Ultrasound - Baby moving: Bacha chaleko (बच्चा चलेको).
+4. Specialized Treatment Modalities
+Surgery / Operation: Salya-kriya (शल्यक्रिया), Operation (अपरेशन), or Chir-faar (चिरफार - lit. cutting and opening).
+Robotic Surgery: Robot bata operation (रोबोटबाट अपरेशन) or Robotic salya-kriya (रोबोटिक शल्यक्रिया).
+Dialysis: Dialysis garne (डायलाइसिस गर्ने).
+Sitz Bath: Tato pani ma basne (तातो पानीमा बस्ने - lit. sitting in hot water) or Sitz bath (सिट्स बाथ).
+Light Therapy (e.g., phototherapy for neonatal jaundice): Batti ma rakhne (बत्तीमा राख्ने - lit. keeping under the light) or Phototherapy (फोटोथेरापी). Avoid sekne here, as it implies adding heat rather than light.
+Laser Therapy (e.g., for skin treatments): Laser upachaar (लेजर उपचार) or Laser therapy (लेजर थेरापी).
+Section 18: Physical Therapy & Rehabilitation (भौतिक चिकित्सा र पुनस्थापना)
+1. Therapy & Specialists
+Physical Therapy / Physiotherapy: Physiotherapy (फिजिओथेरापी - universally used loanword) or Bhautik chikitsa (भौतिक चिकित्सा - formal).
+Rehabilitation: Punasthapana (पुनर्स्थापना).
+Posture / Body alignment: Aasan (आसन) or Jiuko daacha (जिउको ढाँचा).
+Gait / Walking style: Hindai (हिँडाइ).
+2. Movements & Exercises
+Exercise: Kasrat (कसरत), Byayam (व्यायाम), or the English loanword Eksersais garne (एक्सरसाइज गर्ने).
+Stretching: Tankaune (तन्काउने).
+Bending (a joint): Khumchyaune (खुम्च्याउने).
+Strengthening: Baliyo banaune (बलियो बनाउने).
+Moving a joint (Range of Motion): Jorni chalaune (जोर्नी चलाउने).
+3. Treatments & Modalities
+General Massage / Rubbing: Malish garne (मालिस गर्ने).
+Applying heat / Hot compress: Sekuwa garne or Sekne (सेक्ने).
+Applying cold / Ice pack: Baraf le sekne (बरफले सेक्ने) or Chiso le sekne.
+4. Mobility Aids
+Crutches: Baisakhi (बैशाखी).
+Walking stick / Cane: Lauro (लौरो).
+Wheelchair: Wheelchair (ह्वीलचेयर - loanword).
+Walker: Walker (वाकर - loanword).
+Section 19: Hospital Hierarchy, Admin & Places (अस्पताल र बिमा)
+1. Places in the Hospital
+Emergency Room (ER): Apatkalin kaksha (आपतकालीन कक्ष) or Emergency (इमर्जेन्सी).
+Outpatient Department (OPD): Bahiranga bibhag (बहिरंग विभाग) or OPD (ओ.पी.डी.).
+Inpatient / Medical Ward: Ward (वार्ड).
+Laboratory: Prayogshala (प्रयोगशाला) or Lab (ल्याब).
+Pharmacy: Aushadhi pasal (औषधि पसल) or Pharmacy (फार्मेसी).
+Operating Room / Theater: Salya-kriya kaksha (शल्यक्रिया कक्ष) or OT (ओ.टी.).
+Delivery Room: Sutkeri kaksha (सुत्केरी कक्ष).
+Postpartum/Maternity Ward: Sutkeri ward (सुत्केरी वार्ड) or Prasuti ward (प्रसूति वार्ड).
+Waiting Area: Prakshya kaksha (प्रतीक्षा कक्ष).
+2. Health System Facilities
+Local Pharmacy/Clinic: Medical (मेडिकल - used to describe local privately-owned pharmacies that often do basic triage).
+Health Post: Swasthya Chauki (स्वास्थ्य चौकी - rural government clinic).
+Hospital: Aspatal (अस्पताल).
+District Hospital: Zilla Aspatal (जिल्ला अस्पताल).
+3. Staff Titles
+Doctor: Chikitsak (चिकित्सक - formal) or Daktar (डाक्टर - common).
+Nurse: Paricharika (परिचारिका - highly formal/literary, rarely used in speech) or Nurse (नर्स - common).
+Health Assistant (HA): HA (एच.ए. - mid-level provider, often runs health posts).
+CMA / ANM: CMA (सी.एम.ए.) or ANM (ए.एन.एम. - Auxiliary Nurse Midwife - common in rural areas).
+Female Community Health Volunteer: Mahila Swasthya Swayamsewika (महिला स्वास्थ्य स्वयंसेविका) or simply FCHV (एफ.सी.एच.भी.).
+Traditional Birth Attendant: Sudeniy (सुडेनी).
+4. Administration, Instructions & Insurance
+Admit to hospital: Bharna hune (भर्ना हुने) or Admit garne.
+Discharge: Discharge hune or Chhutti hune (छुट्टी हुने).
+Referral: Refer garne or Arko aspatal ma pathaune.
+Discharge/OPD Follow-up instruction: Feri farta aaunu (फेरि फिर्ता आउनु - come back again) or Aushadhi sidhiyepachi aaunu (come back when medicine is finished).
+Health Insurance: Swasthya Bima (स्वास्थ्य बिमा) or simply Bima (बिमा).
+Insurance Card: Bima card (बिमा कार्ड).
+Claiming insurance / Discounted: Paisa chhut hune (पैसा छुट हुने - getting a discount/coverage) or Claim garne.
+Section 20: Lifestyle, Diet & Sleep (जीवनशैली, खानपान र निन्द्रा)
+Diet / Food habits: Khaanpaan (खानपान).
+Fasting: Barta basne (बर्त बस्ने - religious) or Khali pet basne (medical fasting).
+Sleep (The noun): Nindra (निन्द्रा).
+To go to bed / lay down: Sutne (सुत्ने).
+To fall asleep (the action of crossing into sleep): Nidaune (निदाउने).
+To wake up (on your own): Byujhine (ब्युँझिने) or Uthne (उठ्ने - to get up).
+To wake someone else up: Uthaune (उठाउने).
+Rest: Aaram garne (आराम गर्ने).
+Healing / Getting well: Niko hune (निको हुने) or Bishak hune (बिसक हुने).
+Section 21: End of Life, Hospice & Death (अन्तिम अवस्था र मृत्यु)
+1. Hospice & End of Life Symptoms
+Terminal stage: Antim awastha (अन्तिम अवस्था - final stage).
+Bedridden: Thala pareko (थला परेको - physically unable to leave the bed).
+Unable to eat: Khana nasakne (खान नसक्ने).
+Difficulty breathing (at end of life): Saas ferna garo bhayeko (सास फेर्न गाह्रो भएको).
+Given up hope / Palliative state: Aasha maareko (आशा मारेको - hope is dead) or Bachne aasha nabhayeko (no hope of surviving).
+2. Talking about Death
+To die / Pass away:
+Formal/Respectful: Biteko (बितेको - passed) or Swargabas bhayo (स्वर्गवास भयो - went to heaven).
+Direct/Clinical: Mityru bhayo (मृत्यु भयो) or Marnu (मर्नु - to die).
+Very formal/Religious: Pran tyag garne (प्राण त्याग गर्ने - to surrender the life force).
+Colloquial (older): Khasyo (खस्यो - dropped/fell).
+Dead body / Corpse: Laas (लास) or Shab (शव - formal).
+Post-mortem / Autopsy: Post-mortem garne or Shab parikshan (शव परीक्षण - formal).
+Section 22: Traditional Healing & Cultural Beliefs (परम्परागत उपचार र जनविश्वास)
+Shaman / Faith Healer: Dhami (धामी) or Jhankri (झाँक्री).
+Ayurvedic Practitioner: Baidya (वैद्य).
+Shamanic healing session: Jhar-phuk garne (झारफुक गर्ने).
+Evil Eye: Najar laageko (नजर लागेको) or Aankha laageko.
+Cursed by a witch: Boksi laageko (बोक्सी लागेको).
+Possessed (by deity/spirit): Deuta chadeko (देउता चढेको) or Bhut-pret (भूतप्रेत).
+Herbal medicine: Jadi-buti (जडीबुटी).
