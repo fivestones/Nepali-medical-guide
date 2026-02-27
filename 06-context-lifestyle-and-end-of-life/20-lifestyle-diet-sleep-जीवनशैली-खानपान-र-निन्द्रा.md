@@ -1,5 +1,7 @@
 # Section 20: Lifestyle, Diet & Sleep (जीवनशैली, खानपान र निन्द्रा)
 
+See also [Section 1: General Illness, Vitals & Trajectories](../01-foundations/01-general-illness-vitals-trajectories-सामान्य-शब्दावली-र-नाप.md) for the cross-system symptom pattern *Lagnu* (लाग्नु), which is used in high-yield expressions like `Nidra lagyo`, `Bhok lagyo`, and `Jaado lagyo`.
+
 - Diet / Food habits: *Khaanpaan* (खानपान).
 
 - Fasting: *Barta basne* (बर्त बस्ने - religious) or *Khali pet basne* (medical fasting).

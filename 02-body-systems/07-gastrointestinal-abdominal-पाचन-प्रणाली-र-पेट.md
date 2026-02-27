@@ -1,6 +1,6 @@
 # Section 7: Gastrointestinal & Abdominal (पाचन प्रणाली र पेट)
 
-See also the [Quick Register Table for Bodily Functions](../01-foundations/part-1-sensitive-language-and-registers.md#quick-register-table-for-bodily-functions) for a faster register comparison, and [Section 8: Genitourinary, Pelvic & Sexual History](./08-genitourinary-pelvic-sexual-history-मुत्र-तथा-प्रजनन-प्रणाली.md) for adjacent pelvic and elimination vocabulary.
+See also the [Quick Register Table for Bodily Functions](../01-foundations/part-1-sensitive-language-and-registers.md#quick-register-table-for-bodily-functions), [Section 1: General Illness, Vitals & Trajectories](../01-foundations/01-general-illness-vitals-trajectories-सामान्य-शब्दावली-र-नाप.md) for the cross-system symptom pattern *Lagnu* (लाग्नु) used in expressions like `Pakhala laageko`, `Ghin lagyo`, and `Bhok lagyo`, and [Section 8: Genitourinary, Pelvic & Sexual History](./08-genitourinary-pelvic-sexual-history-मुत्र-तथा-प्रजनन-प्रणाली.md) for adjacent pelvic and elimination vocabulary.
 
 ## 1. Detailed Anatomy & Fluids
 

@@ -60,3 +60,24 @@
 
 - Swelling decreased / went down: *Basyo* (बस्यो - lit. "sat" or settled down) or *Sukyo* (सुक्यो - shrunk/dried up). Example: *Sunnieko basyo* (the swelling went down).
 
+## 4. Symptom Pattern: *Lagnu* (लाग्नु)
+
+- *Lagnu* (लाग्नु) is one of the most important verbs in symptom language. In these contexts it often means "to feel," "to experience," or "to come on," not literally "to attach."
+
+- Common forms: *Lagchha* (लाग्छ - feels / seems), *Lagyo* (लाग्यो - felt / came on), and *Laageko chha* (लागेको छ - is being felt / has been present).
+
+- This pattern is especially common for internal states such as hunger, sleepiness, chills, fear, nausea, discomfort, and difficulty. English speakers often expect a verb like "to be" here, but Nepali often uses *Lagnu* (लाग्नु) instead.
+
+- Hunger / feeling hungry: *Bhok lagyo* (भोक लाग्यो). Back-translation: "Hunger came / was felt."
+
+- Sleepiness / feeling sleepy: *Nidra lagyo* (निद्रा लाग्यो) or *Nindra lagyo* (निन्द्रा लाग्यो).
+
+- Feeling cold / having chills: *Jaado lagyo* (जाडो लाग्यो).
+
+- Nausea / queasiness: *Ghin lagyo* (घिन लाग्यो) or *Wakwaki lagyo* (वाकवाकी लाग्यो).
+
+- Fear / feeling afraid: *Darr lagyo* (डर लाग्यो).
+
+- Breathing feels difficult: *Saas ferna garo lagyo* (सास फेर्न गाह्रो लाग्यो).
+
+- This is different from pain verbs like *Dukhnu* (दुख्नु), which are often used more directly for pain itself: *Pet dukhyo* (पेट दुख्यो - the stomach hurt) versus *Ghin lagyo* (घिन लाग्यो - nausea was felt).
