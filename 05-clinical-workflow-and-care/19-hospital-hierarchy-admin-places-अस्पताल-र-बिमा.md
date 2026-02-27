@@ -18,7 +18,7 @@
 
 - Postpartum/Maternity Ward: *Sutkeri ward* (सुत्केरी वार्ड) or *Prasuti ward* (प्रसूति वार्ड).
 
-- Waiting Area: *Prakshya kaksha* (प्रतीक्षा कक्ष).
+- Waiting Area: *Pratikshya Kaksha* (प्रतीक्षा कक्ष) (formal) or *Kurne thau* (कुर्ने ठाउँ) (common usage).
 
 ## 2. Health System Facilities
 
