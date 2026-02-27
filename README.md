@@ -19,7 +19,7 @@ This repository is a working medical Nepali reference for clinicians, interprete
 ## Want to help?
 
 - If you have the knowledge of medical Nepali and spot errors or can make additions or other improvements, please submit a pull request!
-- This is MIT licensed, so feel free to download/print/distribute/fork it in whatever you feel is useful.
+- This is MIT licensed, so feel free to download/print/distribute/fork it in whatever way you feel is useful.
 
 ## How To Use The Guide
 
