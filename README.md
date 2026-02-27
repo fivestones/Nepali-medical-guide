@@ -1,4 +1,4 @@
-# Comprehensive Medical Nepali Guide for Foreign Practitioners
+# Comprehensive* Medical Nepali Guide for Foreign Practitioners
 
 This repository is a working medical Nepali reference for clinicians, interpreters, learners, and collaborators who need language that works in real encounters.
 
@@ -95,6 +95,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the editing conventions to follow a
 - [Section 20: Lifestyle, Diet & Sleep (जीवनशैली, खानपान र निन्द्रा)](./06-context-lifestyle-and-end-of-life/20-lifestyle-diet-sleep-जीवनशैली-खानपान-र-निन्द्रा.md)
 - [Section 21: End of Life, Hospice & Death (अन्तिम अवस्था र मृत्यु)](./06-context-lifestyle-and-end-of-life/21-end-of-life-hospice-death-अन्तिम-अवस्था-र-मृत्यु.md)
 - [Section 22: Traditional Healing & Cultural Beliefs (परम्परागत उपचार र जनविश्वास)](./06-context-lifestyle-and-end-of-life/22-traditional-healing-cultural-beliefs-परम्परागत-उपचार-र-जनविश्वास.md)
+
+
+<sub>\* As described above, it's not actually comprehensive. But that's the goal!<sub>
 
 ## License
 
