@@ -1,14 +1,25 @@
 # Comprehensive Medical Nepali Guide for Foreign Practitioners
 
-This repository is a working medical Nepali reference for clinicians, interpreters, learners, and collaborators who need language that works in real encounters. It preserves the imported source material while reorganizing and expanding it into a Markdown guide that is easier to revise carefully over time.
+This repository is a working medical Nepali reference for clinicians, interpreters, learners, and collaborators who need language that works in real encounters.
 
 ## What This Repository Tries To Do
 
-- Keep the full body of source information available instead of summarizing important details away.
+- Be as close as possible to a comprehensive resourse for medical Nepali. While you will likely need some general Nepali language ability to be able to make use of this, this aims to provide all the medical Nepali that the usual Nepali language curriculums miss.
 - Pair everyday patient phrasing with more formal clinical language when both are useful.
 - Include Devanagari and transliteration for terms and phrases throughout the guide.
 - Add back-translations, register notes, and example usage where they make meaning clearer for English-speaking readers.
 - Keep culturally specific and potentially stigmatizing language visible, but labeled responsibly.
+
+## What remains to be done
+
+- There is a lot of vocabulary and usage notes here, but it isn't comprehensive yet.
+- It would be great if there were examples of usage in a medical context for all the terms used here.
+- I'm sure there are many errors
+
+## Want to help?
+
+- If you have the knowledge of medical Nepali and spot errors or can make additions or other improvements, please submit a pull request!
+- This is MIT licensed, so feel free to download/print/distribute/fork it in whatever you feel is useful.
 
 ## How To Use The Guide
 
@@ -28,14 +39,13 @@ This repository is a working medical Nepali reference for clinicians, interprete
 
 ## Editorial Conventions
 
-- Original section titles and numbering remain inside the files for traceability back to the imported source.
 - Reorganization should improve navigation, not remove content.
 - When a phrase is likely to confuse English readers, a short back-translation is preferred over a loose summary.
 - Terms that are colloquial, stigmatizing, euphemistic, or strongly context-dependent should be labeled that way.
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for the editing conventions we are trying to follow as the guide grows.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the editing conventions to follow as the guide grows.
 
 ## Guide Map
 
