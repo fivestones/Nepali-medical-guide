@@ -8,13 +8,13 @@
 
 - Scalp/Crown: *Taalu* (तालु)
 
-- Hairline: *Kapaal ko ghera* (कपालको घेरा) (this is not commonlybused an may not be understood by many Nepali people)
+- Hairline: *Kapaal ko ghera* (कपालको घेरा) (this is not commonly used an may not be understood by many people)
 
 **Pathology & Variations:**
 
 - Dandruff: *Chhaaya* (छाया)
 
-- Lice / Nits: *Jumra* (जुम्रा) / *Likha* (लिक्खा - the eggs)
+- Lice / Nits: *Jumra* (जुम्रा) / *Likha* (लिक्खा - the eggs, or smaller lice)
 
 - Thinning / Sparse hair: *Kapaal patalo bhayeko* (कपाल पातलो भएको)
 
@@ -28,7 +28,7 @@
 
 - Graying/White hair: *Kapaal phuleko* (कपाल फुलेको)
 
-- Scalp sores/crusts: *Khavata* (खबटा) or *Khaat* (खाट)
+- Scalp sores/crusts: *Khavata* (खबटा) (often not understood) or *Khat* (खत) or ghau (घउ), ghau being the usual word for a sore anywhere on the body. 
 
 - Curly hair: *Ghumrieko kapaal* (घुम्रिएको कपाल) or *Karli kapaal* (कर्ली कपाल). The second form, using the english loanword, is commonly used.
 
@@ -58,7 +58,7 @@
 
 - White of the eye: *Aankha ko seto bhaag* (आँखाको सेतो भाग)
 
-- Eyelid: *Papi* (पापी) / *Aankha ko parela ko aawaran*
+- Eyelid: *Papi* (पापी) / *Aankha ko parela ko aawaran* (often not understood, some use the english loanword *eyelid* (आईलीड)
 
 - Eyelash: *Parela* (परेला)
 
@@ -76,15 +76,23 @@
 
 - Itchy eyes: *Aankha chilaayeko* (आँखा चिलाएको)
 
-- Watery eyes: *Aankha rasaayeko* (आँखा रसाएको)
+- Watery eyes: *Aankha rasaayeko* (आँखा रसाएको) (not commonly used)
+
+- Vision: *Dristi* (ड्रीस्ती)
 
 - Blurry vision: *Dhamilo dekhiyo* (धमिलो देखियो)
 
 - Stye: *Aano* (आनो)
 
-- Squint / Strabismus: *Dedo* (डेड‍ो)
+- Strabismus: *Dedo* (डेड‍ो) (often understood to mean eyes pointing in different directions.
+
+- Squint: *Chimlinu* (चीम्लीनु)
 
 - Blindness: *Andho* (अन्धो)
+
+- To see: *Deknu* (डेक्नु)
+
+- To look: *Hernu* (हेर्नु)
 
 ## 4. Ears (कान)
 
@@ -92,7 +100,7 @@
 
 - Ear: *Kaan* (कान)
 
-- Earlobe: *Kaan ko loli* (कानको लोली)
+- Earlobe: *Kaan ko loti* (कानको लोती)
 
 **Fluids & Pathology:**
 
@@ -112,15 +120,17 @@
 
 - Snot / Mucus: *Singhaan* (सिँगान)
 
-- Dried snot / Boogers: *Naak ko guji* (नाकको गुजी)
+- Dried snot / Boogers: *Naak ko suli* (नाकको सुली)
 
 **Actions:**
 
 - Sneezing: *Hachhyu garne* (हाच्छ्युँ गर्ने)
 
-- Sniffling: *Sukk sukk garne* (सुक्क सुक्क गर्ने)
+- Sniffling: *Sukk sukk garnu* (सुक्क सुक्क गर्नू)
 
 - Blowing nose: *Singhaan faalne* (सिँगान फाल्ने)
+
+- To smell: Sugnu (सूग्नु)
 
 ## 6. Mouth, Teeth & Throat (मुख, दाँत र घाँटी)
 
@@ -138,19 +148,25 @@
 
 - Canines: *Kukur daant* (कुकुर दाँत - lit. "dog teeth")
 
-- Molars: *Bungaaro* (बंगारा)
+- Molars: *Bungaara* (बंगारा), singular *Bungaaro* (बंगाो)
 
 - Gums: *Gija* (गिजा)
 
 - Tongue: *Jibro* (जिब्रो)
 
-- Throat (External/Internal): *Ghaanti* (घाँटी)
+- Throat (External anterior neck as well as internal throat): *Ghaanti* (घाँटी)
+
+- Back of neck: *Gardan* (गर्धन, but *Ghaanti* (घाँटी) is also often used.
 
 **Fluids & Reflexes:**
 
 - Saliva (general): *Ryaal* (ऱ्याल)
 
-- Spit: *Thuk* (थुक)
+- To drool: *Ryaal aunu* (ऱ्याल आउनु) (literally "drool comes")
+
+- Spittle: *Thuk* (थुक)
+
+- To spit: *Thuk garnu* (थुक गर्नु)
 
 - Phlegm / Sputum: *Khakaar* (खकार)
 
@@ -163,6 +179,18 @@
 - Yawning: *Haai garne* (हाइ गर्ने)
 
 - Hyperventilating: *Lamo lamo saas tanne* (pulling long breaths) or *Hatta-patta saas ferna* (panicked breathing)
+
+- Out of breath (such as during exercize): *Siah siah garnu* (स्या स्या गर्नु)
+
+- To swallow: *Nilnu* (नील्नु)
+
+- To chew: *Chaapaunu* (चापाउनु)
+
+- To bite: Thoknu (थोक्नु)
+
+- Stick our your tongue: *Jibro nikalnu* (जिब्रो नीकाल्नु)
+
+- To taste: *Swad linu* (स्वाड गर्नु)
 
 **Pathology & Symptoms:**
 
