@@ -124,12 +124,13 @@
 
 - Runny nose: *Nak ko paani* (नाकको पानी) or just *Paani* (पानी) - literally, "water"
 
-- To run (nose): *Nak bata pani bagcha*
+- To run (nose): *Nak bata pani bagnu* (नाक वाट पानी बाग्नु)
+
 **Actions:**
 
 - Sneezing: *Hachhyu garne* (हाच्छ्युँ गर्ने)
 
-- Sniffling: *Sukk sukk garnu* (सुक्क सुक्क गर्नू)
+- Sniffling: *Sukka sukka garnu* (सुक्क सुक्क गर्नू)
 
 - Blowing nose: *Singhaan faalne* (सिँगान फाल्ने)
 
