@@ -8,7 +8,7 @@
 
 - Scalp/Crown: *Taalu* (तालु)
 
-- Hairline: *Kapaal ko ghera* (कपालको घेरा)
+- Hairline: *Kapaal ko ghera* (कपालको घेरा) (this is not commonlybused an may not be understood by many Nepali people)
 
 **Pathology & Variations:**
 
@@ -22,11 +22,17 @@
 
 - Brittle hair / Split ends: *Kapaal phuteko* (कपाल फुटेको)
 
+- Split ends: *Kapaalko hanga* (कपालको हाँगा)
+
 - Baldness: *Khuile* (खुइले) or *Taalu khuileko* (तालु खुइलेको)
 
 - Graying/White hair: *Kapaal phuleko* (कपाल फुलेको)
 
 - Scalp sores/crusts: *Khavata* (खबटा) or *Khaat* (खाट)
+
+- Curly hair: *Ghumrieko kapaal* (घुम्रिएको कपाल) or *Karli kapaal* (कर्ली कपाल). The second form, using the english loanword, is commonly used.
+
+- Straight hair: *Sidha kapaal* (सीधा कपाल)
 
 ## 2. Face (अनुहार र मुख)
 
