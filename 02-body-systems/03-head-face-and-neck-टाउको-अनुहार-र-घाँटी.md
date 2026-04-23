@@ -90,7 +90,7 @@
 
 - Blindness: *Andho* (अन्धो)
 
-- To see: *Deknu* (डेक्नु)
+- To see: *Deknu* (देख्नु)
 
 - To look: *Hernu* (हेर्नु)
 
@@ -122,6 +122,9 @@
 
 - Dried snot / Boogers: *Naak ko suli* (नाकको सुली)
 
+- Runny nose: *Nak ko paani* (नाकको पानी) or just *Paani* (पानी) - literally, "water"
+
+- To run (nose): *Nak bata pani bagcha*
 **Actions:**
 
 - Sneezing: *Hachhyu garne* (हाच्छ्युँ गर्ने)
