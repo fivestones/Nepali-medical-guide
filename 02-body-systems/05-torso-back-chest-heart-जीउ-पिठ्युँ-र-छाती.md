@@ -42,6 +42,8 @@
 
 - Heart palpitations: *Mutu ko chal badheko* (मुटुको चाल बढेको) or *Mutu dhukdhuk garne* (मुटु ढुकढुक गर्ने).
 
+- Shortness of breath: *Saas ferna gaaro bhayeko* (सास फेर्न गाह्रो भएको).
+
 - Burning in chest (heartburn): *Chhaati poleko* (छाती पोलेको).
 
 - Slipped disc / Pinched nerve: *Nasa chyapiyeko* (नशा च्यापिएको).
