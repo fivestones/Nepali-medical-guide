@@ -8,6 +8,16 @@
 
 - Abdomen / Belly: *Pet* (पेट)
 
+- Lungs: *Phokso* (फोक्सो).
+
+- Spleen: *Phiyo* (फियो). *Note: Patients sometimes confuse the location of the liver and spleen when pointing.*
+
+- Stomach / Belly *Pet* (पेत), or: (casual) *Bhudi* (भुँडी).
+
+- Ribs: *Karang* (करङ).
+
+- Navel / Umbilicus: *Naiito* (नाइटो).
+
 - Flanks / Sides of abdomen: *Kokh* (कोख)
 
 - Waist: *Kammar* (कम्मर)
