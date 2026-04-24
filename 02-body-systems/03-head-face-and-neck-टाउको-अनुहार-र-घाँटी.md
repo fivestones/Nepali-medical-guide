@@ -70,13 +70,17 @@
 
 - Eye boogers / "Sleepies": *Chhipra* (छिप्रा)
 
-**Pathology & Symptoms:**
+**Actions, Pathology & Symptoms:**
 
 - Red / Bloodshot eyes: *Aankha rato bhayeko* (आँखा रातो भएको)
 
 - Itchy eyes: *Aankha chilaayeko* (आँखा चिलाएको)
 
 - Watery eyes: *Aankha rasaayeko* (आँखा रसाएको) (not commonly used)
+
+**Eye Pathology & Symptoms:**
+
+- Conjunctivitis / Pink Eye: *Aankha aayeko* (आँखा आएको). Context: often sweeps through communities during the monsoon. Patients literally say "Eye has come."
 
 - Vision: *Dristi* (ड्रीस्ती)
 
@@ -203,3 +207,5 @@
 - Bleeding gums: *Gija bata ragat aayeko* (गिजाबाट रगत आएको)
 
 - Sore throat: *Ghaanti dukheko* (घाँटी दुखेको) or *Ghaanti khaskhas garne* (scratchy)
+
+- Tonsillitis: *Tonsil bhayeko* (टन्सिल भएको). A universal loanword. Patients often use it to describe any severe sore throat, not necessarily clinically enlarged tonsils, and frequently expect antibiotics.
